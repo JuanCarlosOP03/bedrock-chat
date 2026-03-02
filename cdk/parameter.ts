@@ -7,6 +7,9 @@ bedrockChatParams.set("default", {
   // 🌎 Región Bedrock (Norte de Virginia)
   bedrockRegion: "us-east-1",
 
+  // 🎨 Logo personalizado
+  logoPath: "43229.png",
+
   // 🔐 Seguridad
   selfSignUpEnabled: false,
   enableFrontendWaf: false,
@@ -22,7 +25,7 @@ bedrockChatParams.set("default", {
     "amazon-nova-micro"
   ],
 
-  // 🧠 RAG (ahorro de costos)
+  // 🧠 RAG
   enableRagReplicas: false,
 
   // 🏪 Bot Store
