@@ -30,7 +30,7 @@ bedrockChatParams.set("default", {
 
   // 🏪 Bot Store
   enableBotStoreReplicas: true,
-  botStoreLanguage: "es",
+  botStoreLanguage: "en",
 
   // ⚡ Performance
   enableLambdaSnapStart: false
